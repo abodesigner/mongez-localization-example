@@ -3,5 +3,5 @@ import { jsxConverter } from "@mongez/react-localization";
 
 setLocalizationConfigurations({
     converter: jsxConverter,
-    defaultLocaleCode: "ar",
+    // defaultLocaleCode: "ar",
 });
